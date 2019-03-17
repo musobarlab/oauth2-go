@@ -1,4 +1,4 @@
-### Simplified OAuth2 Flow Example
+### Simplified OAuth2 Protocol Flow Example
 
 #### No Framework, just pure Go
 
