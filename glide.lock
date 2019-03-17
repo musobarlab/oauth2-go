@@ -1,0 +1,8 @@
+hash: 3c2cd6614228a66418257dc9e450f0fc89a31019af3c22fc20e6b85aa864d15c
+updated: 2019-03-17T11:15:16.266536+07:00
+imports:
+- name: github.com/dgrijalva/jwt-go
+  version: 06ea1031745cb8b3dab3f6a236daf2b0aa468b7e
+- name: github.com/satori/go.uuid
+  version: f58768cc1a7a7e77a3bd49e98cdd21419399b6a3
+testImports: []

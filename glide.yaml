@@ -1,0 +1,6 @@
+package: github.com/wuriyanto48/oauth2-go
+import:
+- package: github.com/satori/go.uuid
+  version: v1.2.0
+- package: github.com/dgrijalva/jwt-go
+  version: v3.2.0
