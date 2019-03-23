@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"github.com/wuriyanto48/oauth2-go/core/application/model"
+	"github.com/musobarlab/oauth2-go/core/application/model"
 )
 
 // Output struct

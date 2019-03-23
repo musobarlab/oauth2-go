@@ -9,9 +9,9 @@ import (
 
 	"github.com/satori/go.uuid"
 
-	userModel "github.com/wuriyanto48/oauth2-go/core/user/model"
-	userRepo "github.com/wuriyanto48/oauth2-go/core/user/repository"
-	jwtGen "github.com/wuriyanto48/oauth2-go/core/user/token"
+	userModel "github.com/musobarlab/oauth2-go/core/user/model"
+	userRepo "github.com/musobarlab/oauth2-go/core/user/repository"
+	jwtGen "github.com/musobarlab/oauth2-go/core/user/token"
 )
 
 // Handler struct

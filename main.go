@@ -8,18 +8,18 @@ import (
 	"os"
 	"time"
 
-	rsaConf "github.com/wuriyanto48/oauth2-go/config/rsa"
-	appDelivery "github.com/wuriyanto48/oauth2-go/core/application/delivery"
-	appModel "github.com/wuriyanto48/oauth2-go/core/application/model"
-	appRepo "github.com/wuriyanto48/oauth2-go/core/application/repository"
-	appSecurity "github.com/wuriyanto48/oauth2-go/core/application/security"
+	rsaConf "github.com/musobarlab/oauth2-go/config/rsa"
+	appDelivery "github.com/musobarlab/oauth2-go/core/application/delivery"
+	appModel "github.com/musobarlab/oauth2-go/core/application/model"
+	appRepo "github.com/musobarlab/oauth2-go/core/application/repository"
+	appSecurity "github.com/musobarlab/oauth2-go/core/application/security"
 
-	userDelivery "github.com/wuriyanto48/oauth2-go/core/user/delivery"
-	userModel "github.com/wuriyanto48/oauth2-go/core/user/model"
-	userRepo "github.com/wuriyanto48/oauth2-go/core/user/repository"
-	jwtGen "github.com/wuriyanto48/oauth2-go/core/user/token"
+	userDelivery "github.com/musobarlab/oauth2-go/core/user/delivery"
+	userModel "github.com/musobarlab/oauth2-go/core/user/model"
+	userRepo "github.com/musobarlab/oauth2-go/core/user/repository"
+	jwtGen "github.com/musobarlab/oauth2-go/core/user/token"
 
-	"github.com/wuriyanto48/oauth2-go/middleware"
+	"github.com/musobarlab/oauth2-go/middleware"
 )
 
 func main() {

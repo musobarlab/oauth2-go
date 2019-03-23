@@ -11,14 +11,14 @@ import (
 
 	"github.com/satori/go.uuid"
 
-	appModel "github.com/wuriyanto48/oauth2-go/core/application/model"
-	appRepo "github.com/wuriyanto48/oauth2-go/core/application/repository"
+	appModel "github.com/musobarlab/oauth2-go/core/application/model"
+	appRepo "github.com/musobarlab/oauth2-go/core/application/repository"
 
-	appSecurity "github.com/wuriyanto48/oauth2-go/core/application/security"
-	userModel "github.com/wuriyanto48/oauth2-go/core/user/model"
-	userRepo "github.com/wuriyanto48/oauth2-go/core/user/repository"
+	appSecurity "github.com/musobarlab/oauth2-go/core/application/security"
+	userModel "github.com/musobarlab/oauth2-go/core/user/model"
+	userRepo "github.com/musobarlab/oauth2-go/core/user/repository"
 
-	jwtGen "github.com/wuriyanto48/oauth2-go/core/user/token"
+	jwtGen "github.com/musobarlab/oauth2-go/core/user/token"
 )
 
 // Handler model

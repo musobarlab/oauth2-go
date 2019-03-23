@@ -3,7 +3,7 @@ package repository
 import (
 	"fmt"
 
-	"github.com/wuriyanto48/oauth2-go/core/user/model"
+	"github.com/musobarlab/oauth2-go/core/user/model"
 )
 
 // InMemory struct
